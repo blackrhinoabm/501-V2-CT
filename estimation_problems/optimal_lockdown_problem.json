@@ -1,0 +1,1 @@
+{"num_vars": 1, "names": ["lockdown_days"], "bounds": [[0, 350]], "initial": [30], "integer": [false]}
